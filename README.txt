@@ -1,2 +1,2 @@
-https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/COVID-19-Data-Surveillance/Wastewater
-COVID-19 Wastewater Signal Data
+https://www.publichealthontario.ca/-/media/Data-Files/wastewater-surveillance-signal-data.xlsx?sc_lang=en&rev=0880af749e364831ad0bdc990f1aba0a&hash=8A05D0491E915208D15E0B94CD999B51
+COVIDWastewaterSignalData
